@@ -1,5 +1,6 @@
 # Legal Jargon
 
+
 Author : Sandip Auti 1
 
 [http://download.oracle.com/javase/tutorial/getStarted/application/examples/HelloWorldApp.java](This is not a joke).
